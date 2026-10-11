@@ -1,0 +1,14 @@
+# Arduino / ESP32 build artifacts
+build/
+*.bin
+*.elf
+*.map
+*.hex
+
+# Python
+__pycache__/
+*.pyc
+
+# OS cruft
+.DS_Store
+Thumbs.db
